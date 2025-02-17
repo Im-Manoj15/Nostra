@@ -7,8 +7,11 @@ A simple and stylish outfit showcase website built with HTML, CSS, and JavaScrip
 ## Features
 
 Responsive design
+
 Interactive elements
+
 Fashion gallery
+
 Search and filter options
 
 ##Technologies Used
