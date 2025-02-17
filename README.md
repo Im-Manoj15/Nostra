@@ -17,5 +17,7 @@ Search and filter options
 ##Technologies Used
 
 HTML for structure
+
 CSS for styling
+
 JavaScript for interactivity
