@@ -14,7 +14,7 @@ Fashion gallery
 
 Search and filter options
 
-##Technologies Used
+## Technologies Used
 
 HTML for structure
 
